@@ -1,0 +1,4 @@
+# git ignored files
+
+/node_modules/
+dconf

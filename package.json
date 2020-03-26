@@ -1,0 +1,14 @@
+{
+  "name": "COVIDentify-web",
+  "version": "1.0.0",
+  "description": "web app for COVIDentify",
+  "main": "index.js",
+  "repository": "git@github.com:Big-Ideas-Lab/COVIDentify-web.git",
+  "author": "Aman Ibrahim <amanmibra@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
